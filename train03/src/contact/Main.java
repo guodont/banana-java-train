@@ -1,4 +1,4 @@
-package com.banana.contact;
+package contact;
 
 import java.util.ArrayList;
 import java.util.List;
